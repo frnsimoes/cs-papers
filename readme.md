@@ -12,3 +12,7 @@ Superscalar and out-of-order execution, branch misprediction, bandwidth and memo
 
 Github postmortem showing how a flood of syscalls combined with the way the kernel handles interrupts increased request latency to over 100 ms.
 
+**[Why does writing 14 bytes to a file write 73 kilobytes to disk?](https://www.cyberdemon.org/2023/08/17/io-inflation.html)**
+
+An enjoyable trip to IO and filesystems internals. Question-oriented. 
+
