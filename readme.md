@@ -16,3 +16,8 @@ Github postmortem showing how a flood of syscalls combined with the way the kern
 
 An enjoyable trip to IO and filesystems internals. Question-oriented. 
 
+
+**[How Rockstar fit an entire city into PlayStation 2 memory](https://www.youtube.com/watch?v=cIbCxbrBCys)**
+
+Interesting overview of streaming blocks into memory. Fragmentation issues, disk seek challenges. 
+
