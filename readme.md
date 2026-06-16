@@ -27,7 +27,9 @@ RavenDB CEO wrote an interesting [response](https://ayende.com/blog/196161-C/re-
 I also found [this discussion](https://yarchive.net/comp/mmap.html) between Linus and Mashey enlightening.
 
 **[Latency lags bandwidth](https://dl.acm.org/doi/pdf/10.1145/1022594.1022596)**
+
 Classical article on lantency and bandwitch. Interesting interpretation of why latency is not a priority for hardware companies.
+
 
 
 
