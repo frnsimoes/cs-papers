@@ -30,6 +30,9 @@ I also found [this discussion](https://yarchive.net/comp/mmap.html) between Linu
 
 Classical article on lantency and bandwitch. Interesting interpretation of why latency is not a priority for hardware companies.
 
+**[Understanding Modern Storage APIs](https://atlarge-research.com/pdfs/2022-systor-apis.pdf)**
+
+One of the first articles benchmarking io_uring. io_uring + sqthread_poll (shared memory map) vs SPDK. Interesting to see the results of single thread vs two threads. The article also compares io_uring with hipri and SPDK (overall winner, no syscall, like io_uring with sqthread_poll).
 
 
 
