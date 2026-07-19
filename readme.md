@@ -34,6 +34,7 @@ Classical article on lantency and bandwitch. Interesting interpretation of why l
 
 One of the first articles benchmarking io_uring. io_uring + sqthread_poll (shared memory map) vs SPDK. Interesting to see the results of single thread vs two threads. The article also compares io_uring with hipri and SPDK (overall winner, no syscall, like io_uring with sqthread_poll).
 
+**[Controlling Queue Delay](https://spawn-queue.acm.org/doi/pdf/10.1145/2208917.2209336?__cf_chl_f_tk=3X2vUqM0tPCGnWmpn5cI0hpvrPW3PweUwiY8ahGSreY-1782847799-1.0.1.1-uTo7nNTfhZJdyZ5yivi.DqklQH5SMNG6OtM8OmwNH34)**
 
-
+Bad queues vs good queues. 
 
