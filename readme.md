@@ -38,3 +38,6 @@ One of the first articles benchmarking io_uring. io_uring + sqthread_poll (share
 
 Bad queues vs good queues. 
 
+**[How Not to Measure Latency](https://www.youtube.com/watch?v=0b3sR32m0nU&t=184s)**
+
+What a stalled system can do to your percentiles. How to understand tail latency and other good stuff.
